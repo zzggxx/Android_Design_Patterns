@@ -1,1 +1,1 @@
-include ':single_instances', ':observable'
+include ':single_instances', ':observable', ':factory'
